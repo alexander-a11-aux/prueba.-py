@@ -1,0 +1,4 @@
+Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mira su diseño. 
+El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal, en lugar de usar 'Contenido aquí, contenido aquí', lo que hace que parezca inglés legible. 
+Muchos paquetes de publicación de escritorio y editores de páginas web ahora usan Lorem Ipsum como su texto de modelo predeterminado, y una búsqueda de 'lorem ipsum' descubrirá muchos sitios web aún en pañales. 
+Varias versiones han evolucionado a lo largo de los años, a veces por accidente, a veces a propósito ( humor inyectado y similares ).
